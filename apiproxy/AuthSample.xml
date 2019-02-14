@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="3" name="AuthSample">
+    <Basepaths>/authsample</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1550166526736</CreatedAt>
+    <CreatedBy>someone@mydomain.com</CreatedBy>
+    <Description>Example OAuth2 token generation endpoint</Description>
+    <DisplayName>AuthSample</DisplayName>
+    <LastModifiedAt>1550166526736</LastModifiedAt>
+    <LastModifiedBy>someone@mydomain.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:86806a335820fbccfcd33ae07b8491d94ebbf321164da05bbf845a89d5f69c308f538145f75770913d05ddac0259f2e83f01ef95053e86bcf098b97bad80e76f</ManifestVersion>
+    <Policies>
+        <Policy>GAT-OAuth-v20</Policy>
+        <Policy>remove-header-authorization</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>

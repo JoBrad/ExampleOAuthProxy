@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="GAT-OAuth-v20" version="SHA-512:779d52dd21d5b2c5b3e33c9579217662fc8d9a3799c546617e6a0c70262cd641b71bdeb2779817c8a30e980c374c5d88598e1905c5d5fbd394d0735ecfd21d1b"/>
+        <VersionInfo resourceName="remove-header-authorization" version="SHA-512:bb51e553b4b66ee4313fbfc0eaa76f08f3db66f9bd05cce9a1dc6542bada0501291719372fb4468a0b7f85ecceaaf0f8a0a397560a14b05f32e87d95423befb7"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:49217cf57ed36aefaef9f4e3280ad439efe71c7f8e3426bf468bf777c443e915e79e54c9e0fb0493d121a596051709f0271aa6ab9feb75581655dafd08a91426"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>

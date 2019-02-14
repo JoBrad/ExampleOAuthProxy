@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OAuthV2 async="false" continueOnError="false" enabled="true" name="GAT-OAuth-v20">
+    <DisplayName>GAT-OAuth-v20</DisplayName>
+    <Properties/>
+    <Attributes/>
+    <ExternalAuthorization>false</ExternalAuthorization>
+    <Operation>GenerateAccessToken</Operation>
+    <SupportedGrantTypes>
+        <GrantType>client_credentials</GrantType>
+        <GrantType>password</GrantType>
+    </SupportedGrantTypes>
+    <GrantType>request.formparam.grant_type</GrantType>
+    <UserName>request.formparam.username</UserName>
+    <PassWord>request.formparam.password</PassWord>
+    <GenerateResponse enabled="true"/>
+    <Tokens/>
+</OAuthV2>
